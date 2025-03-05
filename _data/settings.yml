@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Baleon
+title: Greybluash
 logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
 logo_dark: "/images/logo-dark.svg"
 description: Baleon is a stylish and multifunctional theme for Jekyll
@@ -33,9 +33,9 @@ cta_button:
 #-------------------------------
 # Author Settings
 author:
-  author_intro: Hey, I’m Kevin Jones
-  author_name: Kevin Jones
-  author_role: Product Designer
+  author_intro: Hey, I’m Jason
+  author_name: Jason Duan
+  author_role: Dreamer
   author_avatar: /images/01.jpg
 
 
@@ -158,7 +158,7 @@ mailchimp:
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
+  email: jason@greybluash.com # Add your form_id
   description: Baleon comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
