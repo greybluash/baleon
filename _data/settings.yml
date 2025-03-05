@@ -1,6 +1,7 @@
 #-------------------------------
 # Site Settings
 title: GREY BLU & ASH
+# new test
 logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
 logo_dark: "/images/logo-dark.svg"
 description: Baleon is a stylish and multifunctional theme for Jekyll
