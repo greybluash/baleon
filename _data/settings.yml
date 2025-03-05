@@ -1,6 +1,7 @@
 #-------------------------------
 # Site Settings
-title: Greybluash
+#title: G · R · E · Y · B · L · U · & · A · S · H
+title: GREY BLU & ASH
 logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
 logo_dark: "/images/logo-dark.svg"
 description: Baleon is a stylish and multifunctional theme for Jekyll
@@ -42,19 +43,19 @@ author:
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: (W)Holistic, <em>Glueten-free,</em> <em>Vegan(ish),</em> <em>and Passionate</em> Living. # You can add an 'em' element to highlight text.
+  sidebar_title: (W)holistic, <em>Glueten-free,</em> <em>Vegan(ish),</em> <em>and Passionate</em> Living. # You can add an 'em' element to highlight text.
   sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
 
 
 # Social Links
 social:
-- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
+# - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
+# - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/greybluash"}
-- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
+# - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
 - {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/greybluash"}
-- {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
-- {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
+# - {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
+# - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-pinterest", name: "Pinterest", link: "https://pinterest.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -63,7 +64,7 @@ social:
 #-------------------------------
 # Projects Settings
 projects:
-  enable: true
+  enable: false
   projects_title: Product Design <em>Showcase</em> # You can add an 'em' element to highlight text.
   projects_description: I present my top-tier projects, meticulously crafted with unwavering passion, simplicity, boundless creativity, and unparalleled attention to detail.
 
@@ -71,7 +72,7 @@ projects:
 #-------------------------------
 # Testimonials Settings
 testimonials:
-  enable: true
+  enable: false
   testimonials_title: Trusted by <em>Professionals</em> # You can add an 'em' element to highlight text.
   testimonials_description: Join our community of creative professionals where you can develop your talents and reach new heights in design.
 
@@ -96,14 +97,14 @@ testimonial-items:
 # Blog Section Settings
 blog:
   enable: true
-  blog_title: Latest <em>Articles</em> & <em>Publications</em> # You can add an 'em' element to highlight text.
+  blog_title: Latest <em>Recipies</em> & <em>Passion Projects</em> # You can add an 'em' element to highlight text.
   blog_description: Discover the latest industry news, insights, and trends in a few clicks.
 
 
 #-------------------------------
 # Faq (Frequently asked questions) Settings
 faq:
-  enable: true
+  enable: false
   faq_title: Questions? <em>Answers</em>. # You can add an 'em' element to highlight text.
   faq_description: Find solutions to common queries here.
 
@@ -130,7 +131,7 @@ faq_items:
 #-------------------------------
 # Gallery Settings
 gallery:
-  enable: true
+  enable: false
   gallery_title: A Visual Journey Through <em>My World</em> # You can add an 'em' element to highlight text.
   gallery_description: Step into my visual world where each image tells a story. From the bustling streets of urban landscapes to the serene beauty of nature, explore the moments that inspire and define my journey.
   gallery_caption:
