@@ -42,7 +42,7 @@ author:
 #-------------------------------
 # Sidebar Section Settings
 sidebar:
-  sidebar_title: (W)Holistic <em>Glueten-free,</em> <em>Vegan(ish),</em> <em>Passionate Pursuit Living</em>. # You can add an 'em' element to highlight text.
+  sidebar_title: (W)Holistic, <em>Glueten-free,</em> <em>Vegan(ish),</em> <em>and Passionate</em> Living. # You can add an 'em' element to highlight text.
   sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
 
 
@@ -50,9 +50,9 @@ sidebar:
 social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
+- {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/greybluash"}
 - {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com"}
+- {icon: "fa-brands fa-instagram", name: "Instagram", link: "https://instagram.com/greybluash"}
 - {icon: "fa-brands fa-spotify", name: "Spotify", link: "https://spotify.com"}
 - {icon: "fa-brands fa-vimeo-v", name: "Vimeo", link: "https://vimeo.com"}
 
