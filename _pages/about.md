@@ -4,7 +4,13 @@ title: About <em>Me</em>
 permalink: /about/
 image: '/images/100.jpg'
 ---
-Hello there! Welcome to my corner of the digital world. My name is Kevin, and I am a passionate Product Designer with a flair for crafting exceptional user experiences. I believe that design is not just about aesthetics but a powerful tool to make a positive impact on people’s lives. Beyond just aesthetics, I am deeply committed to designing for impact. Whether it’s improving daily routines, enhancing productivity, or fostering connections.
+Hey there! Welcome to my little corner of the internet where I share my passion for whole-istic health, gluten-free, and vegan recipes. My name is Jason, and I'm so glad you stopped by!
+
+A bit about me...I'm a husband, a father of three beautiful kiddos, and a seeker of all things wellness. After years of feeling like something was off in my body (and let's be real, it probably was - I mean, who hasn't experienced some sort of digestive issues or skin woes?), I stumbled upon the world of whole-istic health and never looked back.
+
+I started this blog as a way to share my journey with others, to help them find the same peace and vitality that I have discovered through incorporating more plant-based foods into my diet, cutting out the gluten, and prioritizing self-care. My recipes are inspired by my favorite cookbooks, food blogs, and of course, Mother Nature!
+
+Beyond food, you'll find stories about my marriage, faith, and family. I believe that wellness encompasses all aspects of life, not just what we put in our bodies. So, whether it's a post about how to incorporate meditation into your busy day or sharing how my husband and I stay connected despite our crazy schedules, you'll find it here!
 
 > Design is not just what it looks like and feels like. Design is how it works.
 > <cite>Steve Jobs</cite>
