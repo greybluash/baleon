@@ -25,10 +25,10 @@ menu_settings:
 
 
 # Call to action button
-cta_button:
-  enable: true
-  cta_button_link: "/contact/"
-  cta_button_text: Say Hello!
+# cta_button:
+#   enable: true
+#   cta_button_link: "/contact/"
+#   cta_button_text: Say Hello!
 
 
 #-------------------------------
