@@ -2,7 +2,7 @@
 layout: page
 title: About <em>Me</em>
 permalink: /about/
-image: '/images/100.jpg'
+image: '/images/family_photo.jpg'
 ---
 Hey there! Welcome to my little corner of the internet where I share my passion for whole-istic health, gluten-free, and vegan recipes. My name is Jason, and I'm so glad you stopped by!
 
