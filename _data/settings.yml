@@ -2,8 +2,8 @@
 # Site Settings
 title: GREY BLU & ASH
 # new test
-logo: "/images/logo.svg" # You can add own logo. For example '/images/logo.png'.
-logo_dark: "/images/logo-dark.svg"
+logo: "/images/greybluash_logo.svg" # You can add own logo. For example '/images/logo.png'.
+logo_dark: "/images/greybluash_logo-dark.svg"
 description: Baleon is a stylish and multifunctional theme for Jekyll
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
