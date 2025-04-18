@@ -1,15 +1,12 @@
 ---
 layout: post
-title: Can ChatGPT Teach Me to Make Gluten-Free Sourdough From Scratch?
+title: Rise of the Machines (and My Sourdough)
 description: The documented journey of learning how to bake bread from ChatGPT
-date: 2025-04-17 15:01:36 +0300
+date: 2025-04-16 15:01:36 +0300
 image: '/images/tommaso-urli-6D9C0lEkYVk-unsplash.jpg'
 tags: [AI,Gluten-Free,Recipes]
 ---
 Photo by <a href="https://unsplash.com/@tunnuz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tommaso Urli</a> on <a href="https://unsplash.com/photos/assorted-size-sliced-bread-on-table-6D9C0lEkYVk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-      
-As we enter the world of AI, let's go on a journey to see how far we can push ChatGPT in learning a skill that usually takes years to master!
-
 
 # Can ChatGPT Teach Me to Make Gluten-Free Sourdough From Scratch?
 
@@ -49,10 +46,115 @@ Each day, I’ll update this post (or future entries) with what happened, photos
 
 ## 📅 The Plan (According to ChatGPT)
 
-1. **Days 1–7**: Build a gluten-free sourdough starter from scratch using brown rice flour and filtered water. Feed it daily, watch it bubble, and try not to panic if it smells weird.
-2. **Day 8**: Mix and ferment the dough using the now-active starter.
-3. **Day 9**: Shape, proof, and bake.
-4. **After**: Taste, analyze, and decide if the experiment was a delicious success or a floury flop.
+---
+
+## 📦 Ingredients
+
+### For the Starter
+- 100g brown rice flour (or gluten-free whole grain flour)
+- 100g filtered or distilled water (room temp)
+
+### For the Bread (Once Starter is Ready)
+- 200g active GF starter
+- 400g gluten-free flour blend (see below)
+- 300g water (adjust based on flour type)
+- 8g salt
+- 1 tbsp olive oil (optional)
+
+---
+
+## 📅 Day-by-Day Starter Schedule
+
+Feed daily at the same time. Use clean utensils & jars. Expect changes in smell and texture!
+
+### Day 1
+- Mix: 50g brown rice flour + 50g water in a clean jar.
+- Stir well, cover loosely, and let sit at room temperature (~70–75°F).
+- **Note**: It may look quiet. That’s okay!
+
+---
+
+### Day 2
+- Discard half (~50g).
+- Add: 50g flour + 50g water. Stir, cover loosely.
+- **What to expect**: Maybe a few bubbles or a slightly sour smell.
+
+---
+
+### Day 3
+- Discard half.
+- Feed again with 50g flour + 50g water.
+- **Note**: Smell may be tangy, sour, or fruity — that's good!
+
+---
+
+### Day 4
+- Discard half.
+- Feed same as before.
+- **What to expect**: More activity, stronger smell, some rise and fall.
+
+---
+
+### Day 5
+- Discard half.
+- Feed: 50g flour + 50g water.
+- **Note**: Starter should rise within 4–6 hours. Look for bubbles and dome shape.
+
+---
+
+### Day 6
+- Repeat feeding.
+- **If very bubbly**: You can test it in water — it should float!
+
+---
+
+### Day 7
+- Optional: Split starter if you want to test different flours or keep backups.
+- Continue feeding until you're ready to bake.
+
+---
+
+## 🍞 Bread Baking Steps
+
+Once starter is active and bubbly, bake your first loaf.
+
+### 1. Mix Dough
+- Combine starter, water, flour, salt, and optional oil.
+- Mix well. It should resemble thick cake batter (adjust water as needed).
+
+### 2. Bulk Fermentation
+- Cover and let rest for 4–8 hours at room temp.
+- Dough should puff up, not necessarily double.
+
+### 3. Shape & Proof
+- Shape into a round and place in parchment-lined bowl or proofing basket.
+- Cover and proof for 1–3 more hours or refrigerate overnight.
+
+### 4. Bake
+- Preheat oven to 450°F (230°C) with Dutch oven inside.
+- Score the top of the dough.
+- Transfer dough to hot Dutch oven, cover, and bake:
+  - 30 min covered  
+  - 15–20 min uncovered
+
+### 5. Cool
+- Let rest 2+ hours before slicing!
+
+---
+
+## 📝 Notes & Tips
+
+- Always discard before feeding to prevent sourness and overgrowth.
+- If starter smells foul or turns pink/gray, toss it.
+- You can store discard in the fridge and use in pancakes, crackers, etc.
+- Use non-chlorinated water — distilled or filtered is ideal.
+
+---
+
+## 🧪 Future Experiments
+- Try different flours: sorghum, teff, millet, buckwheat.
+- Test hydration levels (start with 100%).
+- Try add-ins: herbs, olives, seeds.
 
 ---
 
