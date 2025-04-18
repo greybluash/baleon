@@ -6,6 +6,8 @@ date: 2025-04-17 15:01:36 +0300
 image: '/images/tommaso-urli-6D9C0lEkYVk-unsplash.jpg'
 tags: [AI,Gluten-Free,Recipes]
 ---
+Photo by <a href="https://unsplash.com/@tunnuz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tommaso Urli</a> on <a href="https://unsplash.com/photos/assorted-size-sliced-bread-on-table-6D9C0lEkYVk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
 As we enter the world of AI, let's go on a journey to see how far we can push ChatGPT in learning a skill that usually takes years to master!
 
 
