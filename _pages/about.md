@@ -12,7 +12,7 @@ I started this blog as a way to share my journey with others, to help them find 
 
 Beyond food, you'll find stories about my marriage, faith, and family. I believe that wellness encompasses all aspects of life, not just what we put in our bodies. So, whether it's a post about how to incorporate meditation into your busy day or sharing how my husband and I stay connected despite our crazy schedules, you'll find it here!
 
-> Design is not just what it looks like and feels like. Design is how it works.
+<!-- > Design is not just what it looks like and feels like. Design is how it works.
 > <cite>Steve Jobs</cite>
 
 Curiosity drives me to explore the uncharted territories of design. I love pushing the boundaries and venturing into new design paradigms. As a perpetual learner, I stay updated with the latest industry trends, emerging technologies, and design methodologies, incorporating them into my work to deliver innovative and cutting-edge solutions.
@@ -26,4 +26,4 @@ Design has been an incredible journey of growth and self-discovery for me. I am 
 
 As a Product Designer, I see design challenges as exciting opportunities to find elegant solutions. I enjoy breaking down complex problems into manageable components, collaborating with cross-functional teams, and iterating through multiple design cycles to arrive at the most effective and user-friendly outcomes.
 
-***
+*** -->
