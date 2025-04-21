@@ -44,7 +44,7 @@ author:
 # Sidebar Section Settings
 sidebar:
   sidebar_title: (W)holistic, <em>Glueten-free,</em> <em>Vegan(ish),</em> <em>and Passionate</em> Living. # You can add an 'em' element to highlight text.
-  sidebar_description: Welcome to a unique world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of design.
+  sidebar_description: Welcome to a my world of creativity and innovation! Here you'll find engaging articles, helpful tips, and captivating stories from the realms of food, tech, and family.
 
 
 # Social Links
@@ -148,7 +148,7 @@ gallery_images:
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
+  enable: false
   mailchimp_title: Subscribe to Our <em>Newsletter</em> # You can add an 'em' element to highlight text.
   mailchimp_description: Join now and never miss out on our stuff again. Because you are worth it!
   mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp

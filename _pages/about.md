@@ -10,7 +10,7 @@ A bit about me...I'm a husband, a father of three beautiful kiddos, and a seeker
 
 I started this blog as a way to share my journey with others, to help them find the same peace and vitality that I have discovered through incorporating more plant-based foods into my diet, cutting out the gluten, and prioritizing self-care. My recipes are inspired by my favorite cookbooks, food blogs, and of course, Mother Nature!
 
-Beyond food, you'll find stories about my marriage, faith, and family. I believe that wellness encompasses all aspects of life, not just what we put in our bodies. So, whether it's a post about how to incorporate meditation into your busy day or sharing how my husband and I stay connected despite our crazy schedules, you'll find it here!
+Beyond food, you'll find stories about my marriage, faith, and family. I believe that wellness encompasses all aspects of life, not just what we put in our bodies. So, whether it's a post about how to incorporate meditation into your busy day or sharing how my wife and I stay connected despite our crazy schedules, you'll find it here!
 
 <!-- > Design is not just what it looks like and feels like. Design is how it works.
 > <cite>Steve Jobs</cite>

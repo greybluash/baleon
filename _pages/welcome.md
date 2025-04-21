@@ -1,11 +1,8 @@
 ---
 layout: page
-title: Welcome
+title: San Jose Resort Style Pool - Welcome Packet
 permalink: /welcome/
 ---
-
-# San Jose Resort Style Pool - Welcome Packet
-
 
 Welcome! We look forward to hosting you for your upcoming booking!
 This is a part of your welcome packet with house rules to ensure a smooth and enjoyable event

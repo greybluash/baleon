@@ -3,9 +3,12 @@ layout: post
 title: How to setup home energy monitoring
 description: test
 date: 2025-04-11 15:01:36 +0300
-image: '/images/energy_01.jpg'
+image: '/images/american-public-power-association-1920-unsplash.jpg'
 tags: [Energy]
 ---
+Photo by <a href="https://unsplash.com/@publicpowerorg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">American Public Power Association</a> on <a href="https://unsplash.com/photos/solar-panel-under-blue-sky-XGAZzyLzn18?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+      
+
 As we become more aware of our impact on the environment, many of us are looking for ways to reduce our carbon footprint and save money on energy costs. One effective way to do this is by setting up whole home energy monitoring. In this blog post, we'll explore the benefits of energy monitoring and how it can help you save money and reduce your impact on the environment.
 
 

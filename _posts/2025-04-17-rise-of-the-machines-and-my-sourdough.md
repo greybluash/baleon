@@ -3,7 +3,7 @@ layout: post
 title: Rise of the Machines (and My Sourdough)
 description: The documented journey of learning how to bake bread from ChatGPT
 date: 2025-04-16 15:01:36 +0300
-image: '/images/tommaso-urli-6D9C0lEkYVk-unsplash.jpg'
+image: '/images/tommaso-urli-1920-unsplash.jpg'
 tags: [AI,Gluten-Free,Recipes]
 ---
 Photo by <a href="https://unsplash.com/@tunnuz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tommaso Urli</a> on <a href="https://unsplash.com/photos/assorted-size-sliced-bread-on-table-6D9C0lEkYVk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
