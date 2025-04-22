@@ -53,3 +53,60 @@ This gets you close to your target in a few sunny days. For quicker results, you
 
 ## Visual Heating Curve (Solar + Cover)
 
+```
+Day      | Temperature Progression
+---------|------------------------
+Start    | 67°F
+Day 1 PM | ~68.5°F
+Day 2 PM | ~70°F
+Day 3 PM | ~71.5°F
+```
+
+- **Solar Gain**: ~2.5°F/day with pump circulation and sun exposure
+- **Night Loss**: ~1°F with auto cover closed
+- **Net Daily Gain**: ~1.5°F
+
+Visualizing this on a line chart, you’d see a steady upward climb from 67°F to 71.5°F over 3 days, with shallow dips overnight.
+
+---
+
+## Maintenance Mode: Keep It Warm for Free
+
+After reaching your target temperature:
+
+- Run pump at **1000 RPM** for 4–6 hours during the day
+- **Keep auto cover closed** at night
+- Expect 2–3°F solar gain during sunny days, with only ~1°F loss overnight
+
+This lets you swim comfortably all weekend long, with minimal added cost.
+
+---
+
+## Pro Tips
+
+- Always heat and circulate during sunny hours (10 AM – 2 PM)
+- Avoid running the heater overnight
+- Use the auto cover consistently
+- Consider adding a solar cover beneath your auto cover for even better retention
+
+By mixing smart scheduling with your existing setup, you can have a warm, inviting pool without a high gas bill.
+
+---
+
+## Automation Setup Suggestions (Jandy System)
+
+1. **Create 3 Custom Schedules**
+   - "Weekday Heating": Disabled (to save energy)
+   - "Weekend Prep (Solar Only)":
+     - Friday 10 AM–4 PM: Pump @1600 RPM
+     - Saturday 10 AM–4 PM: Pump @1600 RPM
+     - Sunday 10 AM–4 PM: Pump @1600 RPM
+   - "Maintenance Mode": Daily Pump @1000 RPM, 11 AM–5 PM
+
+2. **Enable Auto Cover Reminders**
+   - Use app or smart home alerts to remind you to close the cover at night
+
+3. **Optional**: Add a solar controller and temperature sensor for further automation
+
+With this schedule and automation, you’ll enjoy a warm pool every weekend while keeping energy costs in check. Happy swimming!
+
