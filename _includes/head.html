@@ -44,7 +44,10 @@
     }
     {% endif %}
   </script>
-
+{% if jekyll.environment == "production" %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5178221879394659"
+crossorigin="anonymous"></script>
+{% endif %}
   <style>
   {% capture include_to_scssify %}
     {% include main.scss %}
